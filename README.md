@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="logo.png" alt="Honey Bee (HBE) Logo" width="220">
+</p>
+<p align="center">
   <img src="logo.png" width="200"/>
 </p>
 
